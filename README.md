@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Ruchira Lakshan
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,mysql,git,github,linux&theme=dark)](https://skillicons.dev)
 
 <!--
 **ruchiralakshan123/ruchiralakshan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
