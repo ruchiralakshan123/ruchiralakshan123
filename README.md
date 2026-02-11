@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Ruchira Lakshan
 
 <br/>
-## My Tech Stack
+
+ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,mysql,git,github,linux&theme=dark)](https://skillicons.dev)
 
