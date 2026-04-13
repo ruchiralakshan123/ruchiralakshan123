@@ -105,8 +105,61 @@ open_to:
 <tr>
 <td width="50%">
 
+<<<<<<< HEAD
 **🤖 AI-Integrated-Quiz-Generator**
 > AI-powered quiz platform with a Java Spring Boot backend and React frontend — generates smart questions from any topic.
+=======
+**🔹 ruchiralakshan123**
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 12, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
+
+</td>
+<td width="50%">
+
+**🔹 Distributed_Systems_Group_30_Frontend** *(fork)*
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30_Frontend?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 08, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30_Frontend)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 Distributed_Systems_Group_30** *(fork)*
+> Designing a Fault-Tolerant Distributed Messaging System
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 08, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30)
+
+</td>
+<td width="50%">
+
+**🐍 Programming-in-Python-**
+> A curated collection of Python programs, exercises, and mini-projects developed during my Python course. This repository showcases coding practice, problem-solving solutions, and practical projects to strengthen Python programming skills.
+
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Programming-in-Python-?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Feb 28, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Programming-in-Python-)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 AI-Integrated-Quiz-Generator**
+> No description provided.
+>>>>>>> b579c2019e04d1ac902554687c26c87c4570cdeb
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Feb 15, 2026</sub>
@@ -178,7 +231,11 @@ open_to:
 </table>
 </div>
 
+<<<<<<< HEAD
 <sub align="center">🤖 Auto-updated by GitHub Actions &nbsp;·&nbsp; <a href="https://github.com/ruchiralakshan123?tab=repositories">View all repositories →</a></sub>
+=======
+<sub align="center">🤖 Auto-updated on 2026-04-13 02:54 UTC &nbsp;·&nbsp; 11 public repos</sub>
+>>>>>>> b579c2019e04d1ac902554687c26c87c4570cdeb
 
 <!--PROJECTS_END-->
 
