@@ -59,15 +59,15 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 
 ---
 
-## 📊 GitHub Analytics & Connect
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchiralakshan123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=10&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralakshan123&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_radius=10&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruchiralakshan123&show_icons=true&theme=dark&hide_border=true&bg_color=0d0500&title_color=f97316&icon_color=fb923c&text_color=fde68a&border_radius=10&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralakshan123&layout=compact&theme=dark&hide_border=true&bg_color=0d0500&title_color=f97316&text_color=fde68a&border_radius=10&langs_count=8" width="40%" alt="Top Languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=ruchiralakshan123&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&border_radius=10" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ruchiralakshan123&theme=dark&hide_border=true&background=0d0500&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=d97706&sideNums=fde68a&dates=92400d" width="56%" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchiralakshan123&bg_color=0d1117&color=c9d1d9&line=39d353&point=2ea043&area=true&hide_border=true&radius=10" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchiralakshan123&bg_color=0d0500&color=f97316&line=ea580c&point=fbbf24&area=true&hide_border=true&area_color=2d1500&radius=8" width="98%" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -75,149 +75,3 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruchiralakshan123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchiralakshan123)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchiralakshan123@gmail.com)
-
-<!--PROJECTS_START-->
-<!-- Auto-updated by GitHub Actions — do not edit this block manually -->
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-**🔹 ruchiralakshan123**
-> No description provided.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 13, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
-
-</td>
-<td width="50%">
-
-**🔹 Distributed_Systems_Group_30_Frontend** *(fork)*
-> No description provided.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30_Frontend?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 08, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30_Frontend)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 Distributed_Systems_Group_30** *(fork)*
-> Designing a Fault-Tolerant Distributed Messaging System
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 08, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30)
-
-</td>
-<td width="50%">
-
-**🐍 Programming-in-Python-**
-> A curated collection of Python programs, exercises, and mini-projects developed during my Python course. This repository showcases coding practice, problem-solving solutions, and practical projects to strengthen Python programming skills.
-
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Programming-in-Python-?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Feb 28, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Programming-in-Python-)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 AI-Integrated-Quiz-Generator**
-> No description provided.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Feb 15, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/AI-Integrated-Quiz-Generator)
-
-</td>
-<td width="50%">
-
-**🔹 AI-Integrated-Quiz-Generator---Backend**
-> No description provided.
-
-![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator---Backend?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Feb 15, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/AI-Integrated-Quiz-Generator---Backend)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🌱 Sustain-Insight---front-end** *(fork)*
-> (Front End) Full-stack News Aggregator– A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---front-end?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jan 19, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---front-end)
-
-</td>
-<td width="50%">
-
-**🌱 Sustain-Insight---back-end** *(fork)*
-> (Back End) Full-stack News Aggregator – A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---back-end?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jan 19, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---back-end)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🗃️ Usersmanagementsystem**
-> A simple full-stack application to manage users with CRUD operations and authentication.
-
-![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Usersmanagementsystem?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jan 19, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Usersmanagementsystem)
-
-</td>
-<td width="50%">
-
-**🛒 -inventory-system-**
-> web
-
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/-inventory-system-?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Aug 11, 2025</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/-inventory-system-)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎲 yahtze**
-> No description provided.
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/yahtze?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jan 30, 2025</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/yahtze)
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-</div>
-
-<sub align="center">🤖 Auto-updated on 2026-04-13 20:01 UTC &nbsp;·&nbsp; 11 public repos</sub>
-
-<!--PROJECTS_END-->
