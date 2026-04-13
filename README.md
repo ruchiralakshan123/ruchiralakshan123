@@ -78,9 +78,8 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 
 </div>
 
-<!--PROJECTS_START-->
-<!-- Auto-updated by GitHub Actions — do not edit this block manually -->
 
+<<<<<<< HEAD
 <div align="center">
 <table>
 <tr>
@@ -225,3 +224,5 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <!--PROJECTS_END-->
 >>>>>>> 775c8c197750646a1e8ee1ac8a28fd23eb8c68f4
 >>>>>>> cb1b69b47852873030e47e3a520749afba9ed623
+=======
+>>>>>>> 1a4c067 (chore: remove auto-generated project showcase section from README)
