@@ -88,6 +88,9 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
        *Constantly learning and building high-performance, reliable systems.*
 </div>
 
+
+<br/><br/>
+---
 <!--PROJECTS_START-->
 <!-- Auto-updated by GitHub Actions — do not edit this block manually -->
 
