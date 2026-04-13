@@ -1,76 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,30:2d1500,60:1a0a00,100:0d0500&height=200&section=header&text=Ruchira%20Lakshan&fontSize=62&fontColor=f97316&fontAlignY=45&desc=◈%20Computer%20Science%20Undergraduate%20·%20Full-Stack%20Developer%20◈&descAlignY=68&descSize=16&animation=fadeIn&stroke=f97316&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0500,50:2d1500,100:f97316&height=200&section=header&text=Ruchira%20Lakshan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=◈%20CS%20Undergraduate%20·%20Backend%20Developer%20·%20Open%20to%20Internships%20◈&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=18&duration=2400&pause=800&color=F97316&center=true&vCenter=true&width=800&lines=~%24+initializing+developer_mode...+%E2%9C%94;~%24+loading+Java+%2B+Spring+Boot+skills...+%E2%9C%94;~%24+compiling+React+%2B+TypeScript+modules...+%E2%9C%94;~%24+connecting+to+MySQL+database...+%E2%9C%94;~%24+./run+open_to_internships.sh+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=18&duration=2400&pause=800&color=F97316&center=true&vCenter=true&width=860&lines=~%24+initializing+developer_mode...+%E2%9C%94;~%24+loading+Java+%2B+Spring+Boot+skills...+%E2%9C%94;~%24+compiling+React+%2B+TypeScript+modules...+%E2%9C%94;~%24+connecting+to+PostgreSQL+database...+%E2%9C%94;~%24+building+distributed+systems...+%E2%9C%94;~%24+./run+seeking_internship.sh+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 ### `> whoami`
 
 ```
-┌─────────────────────────────────────────┐
-│  NAME     : Ruchira Lakshan             │
-│  HANDLE   : ruchiralakshan123           │
-│  DEGREE   : BSc (Hons) Computer Science │
-│  LOCATION : Sri Lanka  🇱🇰              │
-│  STATUS   : Open to Internships  ✅     │
-│  FOCUS    : Full-Stack Development      │
-│  HOBBY    : Building things that work   │
-└─────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  NAME       : Ruchira Lakshan                        │
+│  HANDLE     : ruchiralakshan123                      │
+│  DEGREE     : BSc (Hons) Computer Science @ SLIIT    │
+│  LOCATION   : Sri Lanka  🇱🇰                         │
+│  STATUS     : 🟢 Actively Seeking Internships        │
+│  FOCUS      : Backend · Distributed Systems · APIs   │
+│  PRINCIPLE  : Write code today that you won't hate   │
+│               debugging at 3 AM tomorrow.            │
+└──────────────────────────────────────────────────────┘
 ```
 
-I'm a Computer Science undergraduate who genuinely enjoys the full journey from
-database schema to pixel-perfect UI. I write **Java backends**, wire up **Spring Boot APIs**,
-craft **React frontends**, and reach for **Python** whenever data needs wrangling.
-Every project is a chance to write cleaner code than yesterday.
+I'm a Computer Science undergraduate at **SLIIT** who is passionate about building backend systems that are **scalable, clean, and maintainable**. I design REST APIs with **Java & Spring Boot**, architect databases with **MySQL & PostgreSQL**, and bring them to life on the frontend with **React & TypeScript**. Every commit is a step toward writing better software than yesterday.
 
-- 🔨 Building full-stack apps with **Java · Spring · React**
-- 🐍 Practising **Python** — algorithms, scripts & beyond
-- 🗄️ Designing **MySQL** schemas that don't hurt at 3 AM
-- 🤝 Looking to **collaborate & contribute** to real-world projects
-
-<br clear="right"/>
+- 🏗️ Building **fault-tolerant distributed systems** and scalable REST APIs
+- 🔐 Implementing **Spring Security** — JWT, OAuth2, and clean auth flows
+- ⚛️ Crafting responsive frontends with **React + TypeScript + Tailwind CSS**
+- 🐍 Sharpening **Python** skills — algorithms, data wrangling & automation
+- 🎯 Actively seeking a **Software Engineering Internship** to contribute to real-world systems
 
 ---
 
 <div align="center">
 
-### `> cat skills.json`
+### `> cat tech_stack.json`
 
 <br/>
 
-**Languages**
+**⚙️ Backend**
 
 ![Java](https://img.shields.io/badge/Java-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**🖥️ Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
-
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
-**Databases & Tools**
+**🗄️ Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🛠️ Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
+
+---
+
+### `> cat current_focus.md`
+
+```yaml
+current_sprint:
+  - Distributed messaging system with fault-tolerance & consensus protocols
+  - AI-Integrated Quiz Generator (Java backend + React frontend)
+  - Deepening knowledge of system design & microservice architecture
+
+learning_queue:
+  - Docker & containerization workflows
+  - RESTful API design best practices
+  - Data structures & algorithms (interview prep)
+
+open_to:
+  - Software Engineering Internships
+  - Backend / Full-Stack Intern Roles
+  - Open Source Contributions
+```
 
 ---
 
@@ -84,56 +105,8 @@ Every project is a chance to write cleaner code than yesterday.
 <tr>
 <td width="50%">
 
-**🔹 ruchiralakshan123**
-> No description provided.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 10, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
-
-</td>
-<td width="50%">
-
-**🔹 Distributed_Systems_Group_30_Frontend** *(fork)*
-> No description provided.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30_Frontend?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 08, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30_Frontend)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 Distributed_Systems_Group_30** *(fork)*
-> Designing a Fault-Tolerant Distributed Messaging System
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 08, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30)
-
-</td>
-<td width="50%">
-
-**🐍 Programming-in-Python-**
-> A curated collection of Python programs, exercises, and mini-projects developed during my Python course. This repository showcases coding practice, problem-solving solutions, and practical projects to strengthen Python programming skills.
-
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Programming-in-Python-?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Feb 28, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Programming-in-Python-)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔹 AI-Integrated-Quiz-Generator**
-> No description provided.
+**🤖 AI-Integrated-Quiz-Generator**
+> AI-powered quiz platform with a Java Spring Boot backend and React frontend — generates smart questions from any topic.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Feb 15, 2026</sub>
@@ -143,8 +116,8 @@ Every project is a chance to write cleaner code than yesterday.
 </td>
 <td width="50%">
 
-**🔹 AI-Integrated-Quiz-Generator---Backend**
-> No description provided.
+**☕ AI-Integrated-Quiz-Generator-Backend**
+> Spring Boot REST API backend powering the quiz generator — clean architecture with service layers and database integration.
 
 ![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator---Backend?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Feb 15, 2026</sub>
@@ -156,32 +129,33 @@ Every project is a chance to write cleaner code than yesterday.
 <tr>
 <td width="50%">
 
-**🌱 Sustain-Insight---front-end** *(fork)*
-> (Front End) Full-stack News Aggregator– A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
+**📡 Distributed_Systems_Group_30**
+> Designing a Fault-Tolerant Distributed Messaging System — group project exploring consensus, replication & failure handling.
 
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---front-end?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jan 19, 2026</sub>
+![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 08, 2026</sub>
 
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---front-end)
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30)
 
 </td>
 <td width="50%">
 
-**🌱 Sustain-Insight---back-end** *(fork)*
-> (Back End) Full-stack News Aggregator – A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
+**🌱 Sustain-Insight (Full-Stack)**
+> News aggregator with React + Tailwind frontend and Spring Boot + PostgreSQL backend — features user personalization and saved articles.
 
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---back-end?style=flat-square&color=f97316&labelColor=1a0a00)
+![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---back-end?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Jan 19, 2026</sub>
 
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---back-end)
+[![Frontend](https://img.shields.io/badge/Frontend-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---front-end)
+[![Backend](https://img.shields.io/badge/Backend-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---back-end)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🗃️ Usersmanagementsystem**
-> A simple full-stack application to manage users with CRUD operations and authentication.
+**🗃️ Users Management System**
+> Full-stack CRUD application with authentication — Spring Boot backend, React frontend, MySQL database, and JWT auth.
 
 ![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Usersmanagementsystem?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Jan 19, 2026</sub>
@@ -191,34 +165,20 @@ Every project is a chance to write cleaner code than yesterday.
 </td>
 <td width="50%">
 
-**🛒 -inventory-system-**
-> web
+**🐍 Programming in Python**
+> A curated collection of Python programs, exercises, and mini-projects — built to strengthen algorithmic thinking and scripting skills.
 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/-inventory-system-?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Aug 11, 2025</sub>
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Programming-in-Python-?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Feb 28, 2026</sub>
 
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/-inventory-system-)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎲 yahtze**
-> No description provided.
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/yahtze?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jan 30, 2025</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/yahtze)
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Programming-in-Python-)
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 </div>
 
-<sub align="center">🤖 Auto-updated on 2026-04-11 02:31 UTC &nbsp;·&nbsp; 11 public repos</sub>
+<sub align="center">🤖 Auto-updated by GitHub Actions &nbsp;·&nbsp; <a href="https://github.com/ruchiralakshan123?tab=repositories">View all repositories →</a></sub>
 
 <!--PROJECTS_END-->
 
@@ -263,6 +223,8 @@ Every project is a chance to write cleaner code than yesterday.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruchiralakshan123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchiralakshan123)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchiralakshan123@gmail.com)
 
 <br/>
 
@@ -278,4 +240,4 @@ Every project is a chance to write cleaner code than yesterday.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0500,50:2d1500,100:0d0500&height=120&section=footer&animation=fadeIn&stroke=f97316&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:2d1500,100:0d0500&height=120&section=footer&animation=fadeIn" width="100%"/>
