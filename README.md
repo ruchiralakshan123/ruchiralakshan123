@@ -105,8 +105,56 @@ open_to:
 <tr>
 <td width="50%">
 
-**🤖 AI-Integrated-Quiz-Generator**
-> AI-powered quiz platform with a Java Spring Boot backend and React frontend — generates smart questions from any topic.
+**🔹 ruchiralakshan123**
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 13, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
+
+</td>
+<td width="50%">
+
+**🔹 Distributed_Systems_Group_30_Frontend** *(fork)*
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30_Frontend?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 08, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30_Frontend)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 Distributed_Systems_Group_30** *(fork)*
+> Designing a Fault-Tolerant Distributed Messaging System
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 08, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30)
+
+</td>
+<td width="50%">
+
+**🐍 Programming-in-Python-**
+> A curated collection of Python programs, exercises, and mini-projects developed during my Python course. This repository showcases coding practice, problem-solving solutions, and practical projects to strengthen Python programming skills.
+
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Programming-in-Python-?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Feb 28, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Programming-in-Python-)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 AI-Integrated-Quiz-Generator**
+> No description provided.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Feb 15, 2026</sub>
@@ -116,8 +164,8 @@ open_to:
 </td>
 <td width="50%">
 
-**☕ AI-Integrated-Quiz-Generator-Backend**
-> Spring Boot REST API backend powering the quiz generator — clean architecture with service layers and database integration.
+**🔹 AI-Integrated-Quiz-Generator---Backend**
+> No description provided.
 
 ![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator---Backend?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Feb 15, 2026</sub>
@@ -129,33 +177,32 @@ open_to:
 <tr>
 <td width="50%">
 
-**📡 Distributed_Systems_Group_30**
-> Designing a Fault-Tolerant Distributed Messaging System — group project exploring consensus, replication & failure handling.
+**🌱 Sustain-Insight---front-end** *(fork)*
+> (Front End) Full-stack News Aggregator– A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
 
-![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 08, 2026</sub>
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---front-end?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jan 19, 2026</sub>
 
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30)
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---front-end)
 
 </td>
 <td width="50%">
 
-**🌱 Sustain-Insight (Full-Stack)**
-> News aggregator with React + Tailwind frontend and Spring Boot + PostgreSQL backend — features user personalization and saved articles.
+**🌱 Sustain-Insight---back-end** *(fork)*
+> (Back End) Full-stack News Aggregator – A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
 
-![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---back-end?style=flat-square&color=f97316&labelColor=1a0a00)
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---back-end?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Jan 19, 2026</sub>
 
-[![Frontend](https://img.shields.io/badge/Frontend-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---front-end)
-[![Backend](https://img.shields.io/badge/Backend-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---back-end)
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---back-end)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🗃️ Users Management System**
-> Full-stack CRUD application with authentication — Spring Boot backend, React frontend, MySQL database, and JWT auth.
+**🗃️ Usersmanagementsystem**
+> A simple full-stack application to manage users with CRUD operations and authentication.
 
 ![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Usersmanagementsystem?style=flat-square&color=f97316&labelColor=1a0a00)
 <sub>🕒 Updated: Jan 19, 2026</sub>
@@ -165,24 +212,34 @@ open_to:
 </td>
 <td width="50%">
 
-**🐍 Programming in Python**
-> A curated collection of Python programs, exercises, and mini-projects — built to strengthen algorithmic thinking and scripting skills.
+**🛒 -inventory-system-**
+> web
 
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Programming-in-Python-?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Feb 28, 2026</sub>
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/-inventory-system-?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Aug 11, 2025</sub>
 
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Programming-in-Python-)
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/-inventory-system-)
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎲 yahtze**
+> No description provided.
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/yahtze?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jan 30, 2025</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/yahtze)
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 </div>
 
-<<<<<<< HEAD
-<sub align="center">🤖 Auto-updated by GitHub Actions &nbsp;·&nbsp; <a href="https://github.com/ruchiralakshan123?tab=repositories">View all repositories →</a></sub>
-=======
-<sub align="center">🤖 Auto-updated on 2026-04-13 19:32 UTC &nbsp;·&nbsp; 11 public repos</sub>
->>>>>>> 89e43966d038184bf6acbbba7bfa165282ae1188
+<sub align="center">🤖 Auto-updated on 2026-04-13 19:33 UTC &nbsp;·&nbsp; 11 public repos</sub>
 
 <!--PROJECTS_END-->
 
