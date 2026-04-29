@@ -99,11 +99,35 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <tr>
 <td width="50%">
 
+**💬 NexusChat-Distributed-Messaging-System**
+> No description provided.
+
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/NexusChat-Distributed-Messaging-System?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 28, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/NexusChat-Distributed-Messaging-System)
+
+</td>
+<td width="50%">
+
+**🔹 Smart_Agricultural_Platform**
+> No description provided.
+
+![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Smart_Agricultural_Platform?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 28, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Smart_Agricultural_Platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 **🔹 ruchiralakshan123**
 > No description provided.
 
  ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 27, 2026</sub>
+<sub>🕒 Updated: Apr 28, 2026</sub>
 
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
 
@@ -123,17 +147,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <tr>
 <td width="50%">
 
-**🔹 Distributed_Systems_Group_30** *(fork)*
-> Designing a Fault-Tolerant Distributed Messaging System
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 08, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30)
-
-</td>
-<td width="50%">
-
 **🐍 Programming-in-Python-**
 > A curated collection of Python programs, exercises, and mini-projects developed during my Python course. This repository showcases coding practice, problem-solving solutions, and practical projects to strengthen Python programming skills.
 
@@ -143,8 +156,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Programming-in-Python-)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🔹 AI-Integrated-Quiz-Generator**
@@ -156,6 +167,8 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/AI-Integrated-Quiz-Generator)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🔹 AI-Integrated-Quiz-Generator---Backend**
@@ -167,8 +180,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/AI-Integrated-Quiz-Generator---Backend)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🌱 Sustain-Insight---front-end** *(fork)*
@@ -180,6 +191,8 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---front-end)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🌱 Sustain-Insight---back-end** *(fork)*
@@ -191,8 +204,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---back-end)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🗃️ Usersmanagementsystem**
@@ -204,6 +215,8 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Usersmanagementsystem)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🛒 -inventory-system-**
@@ -215,8 +228,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/-inventory-system-)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🎲 yahtze**
@@ -228,11 +239,10 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/yahtze)
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 </div>
 
-<sub align="center">🤖 Auto-updated on 2026-04-28 03:28 UTC &nbsp;·&nbsp; 11 public repos</sub>
+<sub align="center">🤖 Auto-updated on 2026-04-29 03:27 UTC &nbsp;·&nbsp; 12 public repos</sub>
 
 <!--PROJECTS_END-->
