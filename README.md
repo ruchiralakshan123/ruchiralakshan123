@@ -99,6 +99,17 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <tr>
 <td width="50%">
 
+**🔹 ruchiralakshan123**
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 30, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
+
+</td>
+<td width="50%">
+
 **🔹 Smart_Agricultural_Platform**
 > No description provided.
 
@@ -106,17 +117,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <sub>🕒 Updated: Apr 29, 2026</sub>
 
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Smart_Agricultural_Platform)
-
-</td>
-<td width="50%">
-
-**🔹 ruchiralakshan123**
-> No description provided.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Apr 29, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
 
 </td>
 </tr>
@@ -243,6 +243,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 </table>
 </div>
 
-<sub align="center">🤖 Auto-updated on 2026-04-30 03:28 UTC &nbsp;·&nbsp; 12 public repos</sub>
+<sub align="center">🤖 Auto-updated on 2026-05-01 03:37 UTC &nbsp;·&nbsp; 12 public repos</sub>
 
 <!--PROJECTS_END-->
