@@ -110,37 +110,7 @@ def build_card(repo) -> str:
 
 </td>"""
 
-def build_projects_section(repos) -> str:
-    if not repos:
-        return (
-            "<!--PROJECTS_START-->\n"
-            "### `> ls -la /projects`\n\n"
-            "*No public repositories yet — check back soon!*\n\n"
-            "<!--PROJECTS_END-->"
-        )
 
-    cards = [build_card(r) for r in repos]
-    rows  = []
-    for i in range(0, len(cards), 2):
-        pair = cards[i:i+2]
-        if len(pair) == 1:
-            pair.append('<td width="50%"></td>')
-        rows.append("<tr>\n" + "\n".join(pair) + "\n</tr>")
-
-    last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    table = (
-        '<div align="center">\n<table>\n'
-        + "\n".join(rows)
-        + '\n</table>\n</div>\n\n'
-        + f'<sub align="center">🤖 Auto-updated on {last_updated} &nbsp;·&nbsp; {len(repos)} public repos</sub>'
-    )
-
-    return (
-        "<!--PROJECTS_START-->\n"
-        "<!-- Auto-updated by GitHub Actions — do not edit this block manually -->\n\n"
-        + table
-        + "\n\n<!--PROJECTS_END-->"
-    )
 
 def update_readme(new_section: str):
     with open("README.md", "r", encoding="utf-8") as f:
