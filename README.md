@@ -99,6 +99,17 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <tr>
 <td width="50%">
 
+**🔹 ruchiralakshan123**
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jun 04, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
+
+</td>
+<td width="50%">
+
 **🔹 skills-introduction-to-github**
 > Exercise: Introduction to GitHub
 
@@ -106,17 +117,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <sub>🕒 Updated: Jun 03, 2026</sub>
 
 [![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/skills-introduction-to-github)
-
-</td>
-<td width="50%">
-
-**🔹 ruchiralakshan123**
-> No description provided.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jun 03, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
 
 </td>
 </tr>
@@ -257,6 +257,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 </table>
 </div>
 
-<sub align="center">🤖 Auto-updated on 2026-06-04 04:16 UTC &nbsp;·&nbsp; 13 public repos</sub>
+<sub align="center">🤖 Auto-updated on 2026-06-05 04:00 UTC &nbsp;·&nbsp; 13 public repos</sub>
 
 <!--PROJECTS_END-->
