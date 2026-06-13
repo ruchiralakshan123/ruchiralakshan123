@@ -17,6 +17,16 @@ HEADERS = {
     "Accept": "application/vnd.github+json",
 }
 
+# ─── Repos to hide from the profile grid ─────────────────────────────────────
+# Add any repo name (exact, case-sensitive) that you don't want displayed.
+EXCLUDED_REPOS = {
+    "ruchiralakshan123",              # profile/config repo
+    "skills-introduction-to-github", # GitHub intro exercise
+    "yahtze",                         # old C project
+    # "some-other-repo",              # uncomment & edit to add more
+}
+# ─────────────────────────────────────────────────────────────────────────────
+
 # Amber/orange-themed language badges to match profile palette
 LANG_BADGES = {
     "Java":       "![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white)",
@@ -66,7 +76,14 @@ def fetch_all_repos():
             break
         all_repos.extend(batch)
         page += 1
-    return all_repos
+
+    # Filter out excluded repos and log what was skipped
+    filtered = [r for r in all_repos if r["name"] not in EXCLUDED_REPOS]
+    skipped  = [r["name"] for r in all_repos if r["name"] in EXCLUDED_REPOS]
+    if skipped:
+        print(f"🚫 Excluded {len(skipped)} repo(s): {', '.join(skipped)}")
+
+    return filtered
 
 def format_date(iso: str) -> str:
     try:
@@ -165,6 +182,6 @@ def update_readme(new_section: str):
 if __name__ == "__main__":
     print(f"🔍 Fetching ALL public repos for @{USERNAME}...")
     repos = fetch_all_repos()
-    print(f"📦 Found {len(repos)} repos")
+    print(f"📦 Displaying {len(repos)} repo(s)")
     update_readme(build_projects_section(repos))
     print("🚀 Done!")
