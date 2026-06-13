@@ -2,12 +2,21 @@
 Auto-update script for ruchiralakshan123's GitHub profile README.
 Fetches ALL public repos (paginated), builds cards with orange/amber badges,
 and rewrites the <!--PROJECTS_START--> ... <!--PROJECTS_END--> block.
+
+NOTE: The projects grid is currently DISABLED.
+      To re-enable it, set SHOW_PROJECTS = True below.
 """
 
 import os
 import re
 import requests
 from datetime import datetime
+
+# ─── Master switch ────────────────────────────────────────────────────────────
+# Set to True to re-enable the projects grid on your profile README.
+# Set to False to keep the section completely hidden (current setting).
+SHOW_PROJECTS = False
+# ─────────────────────────────────────────────────────────────────────────────
 
 USERNAME = os.environ.get("GITHUB_USERNAME", "ruchiralakshan123")
 TOKEN    = os.environ.get("GITHUB_TOKEN", "")
@@ -21,6 +30,7 @@ HEADERS = {
 # Add any repo name (exact, case-sensitive) that you don't want displayed.
 EXCLUDED_REPOS = {
     "Programming-in-Python-",         # excluded from profile display
+    # "some-other-repo",              # uncomment & edit to add more
 }
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -51,12 +61,14 @@ ICON_MAP = {
     "port":       "🌐", "web":       "🌐", "app":       "📱",
 }
 
+
 def get_icon(name: str) -> str:
     lower = name.lower()
     for kw, icon in ICON_MAP.items():
         if kw in lower:
             return icon
     return "🔹"
+
 
 def fetch_all_repos():
     all_repos = []
@@ -82,11 +94,13 @@ def fetch_all_repos():
 
     return filtered
 
+
 def format_date(iso: str) -> str:
     try:
         return datetime.strptime(iso[:10], "%Y-%m-%d").strftime("%b %d, %Y")
     except Exception:
         return iso[:10]
+
 
 def build_card(repo) -> str:
     name     = repo.get("name", "")
@@ -124,6 +138,7 @@ def build_card(repo) -> str:
 
 </td>"""
 
+
 def build_projects_section(repos) -> str:
     if not repos:
         return (
@@ -156,6 +171,36 @@ def build_projects_section(repos) -> str:
         + "\n\n<!--PROJECTS_END-->"
     )
 
+
+def remove_projects_section():
+    """Strips the entire PROJECTS block from README.md, including its --- divider."""
+    with open("README.md", "r", encoding="utf-8") as f:
+        content = f.read()
+
+    cleaned, n = re.subn(
+        r"\n---\n\n<!--PROJECTS_START-->.*?<!--PROJECTS_END-->",
+        "",
+        content,
+        flags=re.DOTALL,
+    )
+
+    # Fallback: markers exist but without the preceding ---
+    if n == 0:
+        cleaned, n = re.subn(
+            r"<!--PROJECTS_START-->.*?<!--PROJECTS_END-->",
+            "",
+            content,
+            flags=re.DOTALL,
+        )
+
+    if n > 0:
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(cleaned)
+        print("✅ Projects section removed from README.")
+    else:
+        print("ℹ️  No projects section found in README — nothing to remove.")
+
+
 def update_readme(new_section: str):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
@@ -176,9 +221,15 @@ def update_readme(new_section: str):
 
     print(f"✅ README updated — {n} section(s) replaced.")
 
+
 if __name__ == "__main__":
-    print(f"🔍 Fetching ALL public repos for @{USERNAME}...")
-    repos = fetch_all_repos()
-    print(f"📦 Displaying {len(repos)} repo(s)")
-    update_readme(build_projects_section(repos))
-    print("🚀 Done!")
+    if not SHOW_PROJECTS:
+        print("🚫 Projects grid is disabled (SHOW_PROJECTS = False).")
+        remove_projects_section()
+        print("✅ Done — projects section is hidden.")
+    else:
+        print(f"🔍 Fetching ALL public repos for @{USERNAME}...")
+        repos = fetch_all_repos()
+        print(f"📦 Displaying {len(repos)} repo(s)")
+        update_readme(build_projects_section(repos))
+        print("🚀 Done!")
