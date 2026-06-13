@@ -89,3 +89,159 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 </div>
 
 <br/><br/>
+
+<!--PROJECTS_START-->
+<!-- Auto-updated by GitHub Actions — do not edit this block manually -->
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+**🔹 ruchiralakshan123**
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jun 13, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
+
+</td>
+<td width="50%">
+
+**🔹 skills-introduction-to-github**
+> Exercise: Introduction to GitHub
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/skills-introduction-to-github?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jun 03, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/skills-introduction-to-github)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 Smart_Agricultural_Platform**
+> No description provided.
+
+![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Smart_Agricultural_Platform?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 29, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Smart_Agricultural_Platform)
+
+</td>
+<td width="50%">
+
+**💬 NexusChat-Distributed-Messaging-System**
+> No description provided.
+
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/NexusChat-Distributed-Messaging-System?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 28, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/NexusChat-Distributed-Messaging-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 Distributed_Systems_Group_30_Frontend** *(fork)*
+> No description provided.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Distributed_Systems_Group_30_Frontend?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Apr 08, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Distributed_Systems_Group_30_Frontend)
+
+</td>
+<td width="50%">
+
+**🔹 AI-Integrated-Quiz-Generator**
+> No description provided.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Feb 15, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/AI-Integrated-Quiz-Generator)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 AI-Integrated-Quiz-Generator---Backend**
+> No description provided.
+
+![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/AI-Integrated-Quiz-Generator---Backend?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Feb 15, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/AI-Integrated-Quiz-Generator---Backend)
+
+</td>
+<td width="50%">
+
+**🌱 Sustain-Insight---front-end** *(fork)*
+> (Front End) Full-stack News Aggregator– A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---front-end?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jan 19, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---front-end)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌱 Sustain-Insight---back-end** *(fork)*
+> (Back End) Full-stack News Aggregator – A collaborative project using React + Tailwind (frontend) and Spring Boot + PostgreSQL (backend) to fetch, categorize, and display news articles with user personalization and saved items.
+
+ ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Sustain-Insight---back-end?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jan 19, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Sustain-Insight---back-end)
+
+</td>
+<td width="50%">
+
+**🗃️ Usersmanagementsystem**
+> A simple full-stack application to manage users with CRUD operations and authentication.
+
+![Java](https://img.shields.io/badge/-Java-FF6B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/Usersmanagementsystem?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jan 19, 2026</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/Usersmanagementsystem)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛒 -inventory-system-**
+> web
+
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/-inventory-system-?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Aug 11, 2025</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/-inventory-system-)
+
+</td>
+<td width="50%">
+
+**🎲 yahtze**
+> No description provided.
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/yahtze?style=flat-square&color=f97316&labelColor=1a0a00)
+<sub>🕒 Updated: Jan 30, 2025</sub>
+
+[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/yahtze)
+
+</td>
+</tr>
+</table>
+</div>
+
+<sub align="center">🤖 Auto-updated on 2026-06-13 17:23 UTC &nbsp;·&nbsp; 12 public repos</sub>
+
+<!--PROJECTS_END-->
