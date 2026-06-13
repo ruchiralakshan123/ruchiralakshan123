@@ -99,30 +99,6 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 <tr>
 <td width="50%">
 
-**🔹 ruchiralakshan123**
-> No description provided.
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/ruchiralakshan123?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jun 12, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/ruchiralakshan123)
-
-</td>
-<td width="50%">
-
-**🔹 skills-introduction-to-github**
-> Exercise: Introduction to GitHub
-
- ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/skills-introduction-to-github?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jun 03, 2026</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/skills-introduction-to-github)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **🔹 Smart_Agricultural_Platform**
 > No description provided.
 
@@ -240,23 +216,9 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-**🎲 yahtze**
-> No description provided.
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Stars](https://img.shields.io/github/stars/ruchiralakshan123/yahtze?style=flat-square&color=f97316&labelColor=1a0a00)
-<sub>🕒 Updated: Jan 30, 2025</sub>
-
-[![View](https://img.shields.io/badge/View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/ruchiralakshan123/yahtze)
-
-</td>
-<td width="50%"></td>
-</tr>
 </table>
 </div>
 
-<sub align="center">🤖 Auto-updated on 2026-06-13 04:00 UTC &nbsp;·&nbsp; 13 public repos</sub>
+<sub align="center">🤖 Auto-updated on 2026-06-13 17:10 UTC &nbsp;·&nbsp; 10 public repos</sub>
 
 <!--PROJECTS_END-->
