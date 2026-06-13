@@ -1,42 +1,42 @@
-name: 🔄 Auto-Update README
+name: Update README
 
 on:
-  push:
-    branches: [main]
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+  push:
+    branches: [main]       # also runs on every push to main
+  workflow_dispatch:       # allows manual trigger from Actions tab
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # needed to commit changes back to the repo
+
     steps:
-      - name: ⬇️ Checkout repo
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🐍 Set up Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: pip install requests
 
-      - name: 🔄 Regenerate README project section
+      - name: Run update script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN:    ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ruchiralakshan123
         run: python .github/scripts/update_readme.py
 
-      - name: 💾 Commit & push if changed
+      - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || git commit -m "🤖 auto-update: refresh repos section [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: auto-update README analytics [skip ci]"
           git push
