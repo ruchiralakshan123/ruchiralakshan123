@@ -71,12 +71,12 @@ I am a Computer Science undergraduate passionate about building scalable, clean,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchiralakshan123&show_icons=true&theme=dark&hide_border=true&bg_color=0d0500&title_color=f97316&icon_color=fb923c&text_color=fde68a&border_radius=10&count_private=true&v=2026061407" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralakshan123&layout=compact&theme=dark&hide_border=true&bg_color=0d0500&title_color=f97316&text_color=fde68a&border_radius=10&langs_count=8&v=2026061407" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruchiralakshan123&show_icons=true&theme=dark&hide_border=true&bg_color=0d0500&title_color=f97316&icon_color=fb923c&text_color=fde68a&border_radius=10&count_private=true&v=2026061504" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralakshan123&layout=compact&theme=dark&hide_border=true&bg_color=0d0500&title_color=f97316&text_color=fde68a&border_radius=10&langs_count=8&v=2026061504" width="40%" alt="Top Languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=ruchiralakshan123&theme=dark&hide_border=true&background=0d0500&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=d97706&sideNums=fde68a&dates=92400d&v=2026061407" width="56%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ruchiralakshan123&theme=dark&hide_border=true&background=0d0500&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=d97706&sideNums=fde68a&dates=92400d&v=2026061504" width="56%" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchiralakshan123&bg_color=0d0500&color=f97316&line=ea580c&point=fbbf24&area=true&hide_border=true&area_color=2d1500&radius=8&v=2026061407" width="98%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchiralakshan123&bg_color=0d0500&color=f97316&line=ea580c&point=fbbf24&area=true&hide_border=true&area_color=2d1500&radius=8&v=2026061504" width="98%" alt="GitHub Activity Graph" />
 </div>
 
 <!--ANALYTICS_END-->
